@@ -1,0 +1,21 @@
+{
+  "28032021": [
+    {
+      "billid": 82108,
+      "billItem": [
+        {
+          "id": 1,
+          "pname": "Pazham pori",
+          "qty": 10,
+          "uPrice": 10,
+          "price": 100
+        }
+      ],
+      "tQty": 10,
+      "total": 100,
+      "custemerNumber": 20188012802108,
+      "date": "2021-03-27T23:17:24.754Z",
+      "id": 1616887044754
+    }
+  ]
+}

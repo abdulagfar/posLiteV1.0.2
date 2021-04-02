@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "pName": "Samoosa",
+      "price": 20,
+      "qty": 30,
+      "details": "",
+      "discount": 0,
+      "id": 1616869891531
+    },
+    {
+      "pName": "Pazham pori",
+      "price": 10,
+      "qty": 10,
+      "details": "",
+      "discount": 0,
+      "id": 1616869891532
+    }
+  ]
+}
